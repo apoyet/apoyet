@@ -1,7 +1,7 @@
 ### Hi there, Axel here ! 👋
 
 <!-- If you're using the "columns" display mode -->
-<img src="https://github.com/apoyet/apoyet/blob/master/metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/apoyet/apoyet/blob/main/metrics.svg" alt="Metrics" width="100%">
 
 
 <!--
