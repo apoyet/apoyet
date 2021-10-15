@@ -1,7 +1,7 @@
 ### Hi there, Axel here ! 👋
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/apoyet/apoyet/blob/main/github-metrics.svg)
+![Metrics](https://github.com/apoyet/apoyet/blob/main/metrics.svg)
 
 <!--
 **apoyet/apoyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
